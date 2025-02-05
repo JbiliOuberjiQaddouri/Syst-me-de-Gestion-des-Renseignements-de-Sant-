@@ -103,7 +103,7 @@ L'architecture repose sur plusieurs microservices interconnectés :
 1. **Cloner le dépôt**  
    Clonez le dépôt sur votre machine :
    ```bash
-   git clone <URL_DU_DEPOT_GITHUB>
+   git clone [<URL_DU_DEPOT_GITHUB>](https://github.com/JbiliOuberjiQaddouri/Syst-me-de-Gestion-des-Renseignements-de-Sant-)
    cd jbiliouberjiqaddouri-syst-me-de-gestion-des-renseignements-de-sant-/
 
 
